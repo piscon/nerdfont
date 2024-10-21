@@ -1,21 +1,21 @@
 /* CaskaydiaCoveNerdFont */
 @font-face {
   font-family: 'CaskaydiaCoveNerdFont Regular';
-  src: url('https://github.com/piscon/nerdfont/main/tree/CascadiaMono/CaskaydiaCoveNerdFont-Regular.ttf') format('truetype');
+  src: url('CascadiaMono/CaskaydiaCoveNerdFont-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFont Bold';
-  src: url('https://github.com/piscon/nerdfont/main/tree/CascadiaMono/CaskaydiaCoveNerdFont-Bold.ttf') format('truetype');
+  src: url('CascadiaMono/CaskaydiaCoveNerdFont-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFont Light';
-  src: url('https://github.com/piscon/nerdfont/main/tree/CascadiaMono/CaskaydiaCoveNerdFont-Light.ttf') format('truetype');
+  src: url('CascadiaMono/CaskaydiaCoveNerdFont-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
@@ -23,21 +23,21 @@
 /* CaskaydiaCoveNerdFontMono */
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontMono Regular';
-  src: url('https://github.com/piscon/nerdfont/main/tree/CascadiaMono/CaskaydiaCoveNerdFontMono-Regular.ttf') format('truetype');
+  src: url('CascadiaMono/CaskaydiaCoveNerdFontMono-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontMono Bold';
-  src: url('https://github.com/piscon/nerdfont/main/tree/CascadiaMono/CaskaydiaCoveNerdFontMono-Bold.ttf') format('truetype');
+  src: url('CascadiaMono/CaskaydiaCoveNerdFontMono-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontMono Light';
-  src: url('https://github.com/piscon/nerdfont/main/tree/CascadiaMono/CaskaydiaCoveNerdFontMono-Light.ttf') format('truetype');
+  src: url('CascadiaMono/CaskaydiaCoveNerdFontMono-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
@@ -45,21 +45,21 @@
 /* CaskaydiaCoveNerdFontPropo */
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontPropo Regular';
-  src: url('https://github.com/piscon/nerdfont/main/tree/CascadiaMono/CaskaydiaCoveNerdFontPropo-Regular.ttf') format('truetype');
+  src: url('CascadiaMono/CaskaydiaCoveNerdFontPropo-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontPropo Bold';
-  src: url('https://github.com/piscon/nerdfont/main/tree/CascadiaMono/CaskaydiaCoveNerdFontPropo-Bold.ttf') format('truetype');
+  src: url('CascadiaMono/CaskaydiaCoveNerdFontPropo-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontPropo Light';
-  src: url('https://github.com/piscon/nerdfont/main/tree/CascadiaMono/CaskaydiaCoveNerdFontPropo-Light.ttf') format('truetype');
+  src: url('CascadiaMono/CaskaydiaCoveNerdFontPropo-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
