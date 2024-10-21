@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'CaskaydiaCove Nerd Font';
+    src: url('https://github.com/piscon/nerdfont/raw/main/CascadiaMono/CaskaydiaCoveNerdFont-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'CaskaydiaCove Nerd Font';
+    src: url('https://github.com/piscon/nerdfont/raw/main/CascadiaMono/CaskaydiaCoveNerdFont-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'CaskaydiaCove Nerd Font';
+    src: url('https://github.com/piscon/nerdfont/raw/main/CascadiaMono/CaskaydiaCoveNerdFont-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'CaskaydiaCove Nerd Font';
+    src: url('https://github.com/piscon/nerdfont/raw/main/CascadiaMono/CaskaydiaCoveNerdFont-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'CaskaydiaCove Nerd Font Mono';
+    src: url('https://github.com/piscon/nerdfont/raw/main/CascadiaMono/CaskaydiaCoveNerdFontMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'CaskaydiaCove Nerd Font Mono';
+    src: url('https://github.com/piscon/nerdfont/raw/main/CascadiaMono/CaskaydiaCoveNerdFontMono-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'CaskaydiaCove Nerd Font Mono';
+    src: url('https://github.com/piscon/nerdfont/raw/main/CascadiaMono/CaskaydiaCoveNerdFontMono-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'CaskaydiaCove Nerd Font Mono';
+    src: url('https://github.com/piscon/nerdfont/raw/main/CascadiaMono/CaskaydiaCoveNerdFontMono-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+  }
