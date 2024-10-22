@@ -1,65 +1,65 @@
-/* CaskaydiaCoveNerdFont */
+/* CaskaydiaMonoNerdFont */
 @font-face {
-  font-family: 'CaskaydiaCoveNerdFont Regular';
-  src: url('CascadiaMono/CaskaydiaCoveNerdFont-Regular.ttf') format('truetype');
-  font-weight: normal;
+  font-family: 'CaskaydiaMonoNerdFont Regular';
+  src: url('CascadiaMono/CaskaydiaMonoNerdFont-Regular.ttf') format('truetype');
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'CaskaydiaCoveNerdFont Bold';
-  src: url('CascadiaMono/CaskaydiaCoveNerdFont-Bold.ttf') format('truetype');
-  font-weight: bold;
+  font-family: 'CaskaydiaMonoNerdFont Bold';
+  src: url('CascadiaMono/CaskaydiaMonoNerdFont-Bold.ttf') format('truetype');
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'CaskaydiaCoveNerdFont Light';
-  src: url('CascadiaMono/CaskaydiaCoveNerdFont-Light.ttf') format('truetype');
-  font-weight: 300;
+  font-family: 'CaskaydiaMonoNerdFont Light';
+  src: url('CascadiaMono/CaskaydiaMonoNerdFont-Light.ttf') format('truetype');
   font-style: normal;
+  font-display: swap;
 }
 
-/* CaskaydiaCoveNerdFontMono */
+/* CaskaydiaMonoNerdFontMono */
 @font-face {
-  font-family: 'CaskaydiaCoveNerdFontMono Regular';
-  src: url('CascadiaMono/CaskaydiaCoveNerdFontMono-Regular.ttf') format('truetype');
-  font-weight: normal;
+  font-family: 'CaskaydiaMonoNerdFontMono Regular';
+  src: url('CascadiaMono/CaskaydiaMonoNerdFontMono-Regular.ttf') format('truetype');
   font-style: normal;
-}
-
-@font-face {
-  font-family: 'CaskaydiaCoveNerdFontMono Bold';
-  src: url('CascadiaMono/CaskaydiaCoveNerdFontMono-Bold.ttf') format('truetype');
-  font-weight: bold;
-  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'CaskaydiaCoveNerdFontMono Light';
-  src: url('CascadiaMono/CaskaydiaCoveNerdFontMono-Light.ttf') format('truetype');
-  font-weight: 300;
+  font-family: 'CaskaydiaMonoNerdFontMono Bold';
+  src: url('CascadiaMono/CaskaydiaMonoNerdFontMono-Bold.ttf') format('truetype');
   font-style: normal;
-}
-
-/* CaskaydiaCoveNerdFontPropo */
-@font-face {
-  font-family: 'CaskaydiaCoveNerdFontPropo Regular';
-  src: url('CascadiaMono/CaskaydiaCoveNerdFontPropo-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'CaskaydiaCoveNerdFontPropo Bold';
-  src: url('CascadiaMono/CaskaydiaCoveNerdFontPropo-Bold.ttf') format('truetype');
-  font-weight: bold;
+  font-family: 'CaskaydiaMonoNerdFontMono Light';
+  src: url('CascadiaMono/CaskaydiaMonoNerdFontMono-Light.ttf') format('truetype');
   font-style: normal;
+  font-display: swap;
+}
+
+/* CaskaydiaMonoNerdFontPropo */
+@font-face {
+  font-family: 'CaskaydiaMonoNerdFontPropo Regular';
+  src: url('CascadiaMono/CaskaydiaMonoNerdFontPropo-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: 'CaskaydiaCoveNerdFontPropo Light';
-  src: url('CascadiaMono/CaskaydiaCoveNerdFontPropo-Light.ttf') format('truetype');
-  font-weight: 300;
+  font-family: 'CaskaydiaMonoNerdFontPropo Bold';
+  src: url('CascadiaMono/CaskaydiaMonoNerdFontPropo-Bold.ttf') format('truetype');
   font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CaskaydiaMonoNerdFontPropo Light';
+  src: url('CascadiaMono/CaskaydiaMonoNerdFontPropo-Light.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
 }

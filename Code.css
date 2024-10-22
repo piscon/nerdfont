@@ -2,64 +2,64 @@
 @font-face {
   font-family: 'CaskaydiaCoveNerdFont Regular';
   src: url('CascadiaCode/CaskaydiaCoveNerdFont-Regular.ttf') format('truetype');
-  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFont Bold';
   src: url('CascadiaCode/CaskaydiaCoveNerdFont-Bold.ttf') format('truetype');
-  font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFont Light';
   src: url('CascadiaCode/CaskaydiaCoveNerdFont-Light.ttf') format('truetype');
-  font-weight: 300;
   font-style: normal;
+  font-display: swap;
 }
 
 /* CaskaydiaCoveNerdFontMono */
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontMono Regular';
   src: url('CascadiaCode/CaskaydiaCoveNerdFontMono-Regular.ttf') format('truetype');
-  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontMono Bold';
   src: url('CascadiaCode/CaskaydiaCoveNerdFontMono-Bold.ttf') format('truetype');
-  font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontMono Light';
   src: url('CascadiaCode/CaskaydiaCoveNerdFontMono-Light.ttf') format('truetype');
-  font-weight: 300;
   font-style: normal;
+  font-display: swap;
 }
 
 /* CaskaydiaCoveNerdFontPropo */
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontPropo Regular';
   src: url('CascadiaCode/CaskaydiaCoveNerdFontPropo-Regular.ttf') format('truetype');
-  font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontPropo Bold';
   src: url('CascadiaCode/CaskaydiaCoveNerdFontPropo-Bold.ttf') format('truetype');
-  font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'CaskaydiaCoveNerdFontPropo Light';
   src: url('CascadiaCode/CaskaydiaCoveNerdFontPropo-Light.ttf') format('truetype');
-  font-weight: 300;
   font-style: normal;
+  font-display: swap;
 }
